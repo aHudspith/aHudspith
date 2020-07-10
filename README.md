@@ -3,29 +3,19 @@
 ### I'm Amy, a soon-to-be 4th year CompSci at Durham University.
 
 
-🔭 I’m currently working on ...
-- Coming up with hackathon ideas for all fo the MLH Summer League Hackathons
-- Web Editor for Grey College JCR
-- Diversity Officer for DurHack 2020
+- 🔭 I’m currently working on ... Coming up with hackathon ideas for all fo the MLH Summer League Hackathons
 
-🌱 I’m currently learning ...
-- p5.js (via The Coding Train because Dan is awesome!)
 
-👯 I’m looking to collaborate on ...
-- Projects to support/empower Women in Tech
+- 🌱 I’m currently learning ... p5.js (via The Coding Train because Dan is awesome!)
 
-🤔 I’m looking for help with ...
-- CTF resources
+- 👯 I’m looking to collaborate on ... Projects to support/empower Women in Tech
 
-💬 Ask me about ...
-- Hackathons and being a Women in Tech
+- 🤔 I’m looking for help with ... CTF resources
 
-📫 How to reach me: ...
-- https://www.linkedin.com/in/amyhudspith/ 
-- Email: amyhudspith999@gmail.com
+- 💬 Ask me about ... Hackathons and being a Women in Tech
 
-😄 Pronouns: ...
-- She/Her
+- 📫 How to reach me: ... https://www.linkedin.com/in/amyhudspith/ 
 
-⚡ Fun fact: ...
-- I am teaching myself to play the venova
+- 😄 Pronouns: ... She/Her
+
+- ⚡ Fun fact: ... I am teaching myself to play the venova
