@@ -1,4 +1,4 @@
-![Profile header](https://i.imgur.com/RDtjbAu.png)
+![Profile Header](https://i.imgur.com/qQ1MCk8.png)
 
 ## Hi there 👋
 
