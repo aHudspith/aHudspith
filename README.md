@@ -1,5 +1,16 @@
 ![Profile Header](https://i.imgur.com/pQVOtmk.png)
 
+<p align='center'>
+<a href="https://dev.to/huddlespith">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amy Hudspith's DEV Profile" height="30" width="30">
+</a>
+
+<a href="https://www.linkedin.com/in/amyhudspith/">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square.png" alt="Amy Hudspith's LinkedIn Profile" height="30" width="30">
+</a>
+
+</p>
+
 ## Hi there 👋
 
 ### I'm Amy, a soon-to-be 4th year CompSci at Durham University.
