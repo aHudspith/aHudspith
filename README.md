@@ -17,12 +17,12 @@
 
 ## Hi there 👋
 
-### I'm Amy, a soon-to-be 4th year CompSci at Durham University.
+### I'm Amy, a 4th year CompSci at Durham University.
 
 -   🔭 I’m currently working on ... Coming up with hackathon ideas for all fo the MLH Summer League Hackathons
 
 
--   🌱 I’m currently learning ... p5.js (via The Coding Train because Dan is awesome!)
+-   🌱 I’m currently learning ... p5.js (via [The Coding Train](https://thecodingtrain.com) because Dan is awesome!)
 
 -   👯 I’m looking to collaborate on ... Projects to support/empower Women in Tech
 
